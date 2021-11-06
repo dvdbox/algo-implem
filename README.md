@@ -1,1 +1,1 @@
-first commit
+My own algorithm implementations from scratch
