@@ -1,1 +1,1 @@
-My own algorithm implementations from scratch
+A list of popular machine learning algorithm that I implemented from scratch.
