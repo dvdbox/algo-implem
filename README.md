@@ -1,1 +1,1 @@
-A list of popular machine learning algorithm implemented from scratch.
+A list of popular machine learning algorithms implemented from scratch.
